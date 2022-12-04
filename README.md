@@ -1,7 +1,7 @@
 ## OPEN SOURCE SOFTWARE
 ### Trem Project
 프로젝트 개요: OpenCV를 활용한 얼굴 필터 제작  
-데모 이미지:  웹캠사용  
+데모 이미지:  웹캠사용 (완성 후 데모 영상 추가 예정)
 이용한 패키지:  OpenCV  
 실행 방법:  Pycharm  
 참고 자료:  
