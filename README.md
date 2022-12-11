@@ -2,7 +2,7 @@
 ### Trem Project
 프로젝트 개요: OpenCV를 활용한 얼굴 필터 제작  
 데모 이미지:  <img src="Demo_img.png">
-이용한 패키지:  OpenCV, (dlib, cmake) -> Install Required  
+이용한 패키지:  OpenCV, numpy, (dlib, cmake) -> Install Required  
 실행 방법:  Pycharm  
 참고 자료:  
 - https://www.yalco.kr/@git-github/0-1/ (git 참고자료)  
